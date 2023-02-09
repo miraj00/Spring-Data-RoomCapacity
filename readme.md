@@ -3,7 +3,7 @@
 ### To use this app
 1. Clone the repository to your computer if you have not already:
    
-   `git clone https://github.com/grandcircusco/JavaBootcampExamples.git`
+   `https://github.com/miraj00/Spring-Data-RoomCapacity.git`
    
 2. In Eclipse, select File > Import...
 3. Select "Existing Gradle Project"
