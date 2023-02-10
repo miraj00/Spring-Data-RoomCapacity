@@ -1,6 +1,6 @@
 -- Copy-paste and run this code in MySQL Workbench to set up the database
 -- table and sample data for this application.
-
+DROP TABLE IF EXISTS rooms;
 CREATE TABLE `rooms` (
   `id` bigint NOT NULL AUTO_INCREMENT,
   `available` bit(1) DEFAULT NULL,
